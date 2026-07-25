@@ -1,0 +1,16 @@
+
+ "name": "Ale Pro Jubis",
+  "short_name": "AleProJubis",
+  "description": "Guía para jubilados de Córdoba",
+  "start_url": "/AM-Pro-Jubis/",
+  "display": "standalone",
+  "background_color": "#2e7d32",
+  "theme_color": "#2e7d32",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
